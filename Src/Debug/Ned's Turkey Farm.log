@@ -1,0 +1,49 @@
+﻿  compilation object save succeeded; see C:\Users\Josh\Desktop\TimeHacker\TimeHacker\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\Josh\Desktop\TimeHacker\TimeHacker\Debug\VertexShader.cso
+  Window.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  tinyxml2.cpp
+c:\program files (x86)\microsoft visual studio\vs15preview\common7\ide\vc\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Timer.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  SpriteMan.cpp
+c:\users\josh\desktop\timehacker\timehacker\code\spriteman.cpp(4): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  Sprite.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Shader.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Renderer.cpp
+c:\program files (x86)\microsoft visual studio\vs15preview\common7\ide\vc\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Random.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Player.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  ObjMan.cpp
+c:\program files (x86)\microsoft visual studio\vs15preview\common7\ide\vc\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Object.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  IPMgr.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  ImageFileNameList.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Weapon.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  SubWeapons.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  Sound.cpp
+c:\users\josh\desktop\timehacker\timehacker\code\sound.cpp(4): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  GameRenderer.cpp
+c:\program files (x86)\microsoft visual studio\vs15preview\common7\ide\vc\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  debug.cpp
+c:\users\josh\desktop\timehacker\timehacker\code\debug.cpp(4): fatal error C1083: Cannot open include file: 'string.h': No such file or directory
+  Collision.cpp
+c:\program files (x86)\microsoft visual studio\vs15preview\common7\ide\vc\include\crtdefs.h(10): fatal error C1083: Cannot open include file: 'corecrt.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Ai.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(31): fatal error C1083: Cannot open include file: 'ctype.h': No such file or directory
+  abort.cpp
+c:\users\josh\desktop\timehacker\timehacker\code\abort.cpp(6): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory
+  Generating Code...

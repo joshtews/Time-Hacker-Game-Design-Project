@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  AlphaTestEffect.cpp
+  BasicEffect.cpp
+  CommonStates.cpp
+  DDSTextureLoader.cpp
+  DGSLEffect.cpp
+  DGSLEffectFactory.cpp
+  DualTextureEffect.cpp
+  BinaryReader.cpp
+  EffectCommon.cpp
+  EffectFactory.cpp
+  EnvironmentMapEffect.cpp
+  GeometricPrimitive.cpp
+  Model.cpp
+  ModelLoadCMO.cpp
+  ModelLoadSDKMESH.cpp
+  ScreenGrab.cpp
+  SkinnedEffect.cpp
+  SpriteBatch.cpp
+  PrimitiveBatch.cpp
+  SpriteFont.cpp
+  Compiling...
+  VertexTypes.cpp
+  WICTextureLoader.cpp
+  DirectXTK_Desktop_2013.vcxproj -> C:\Users\Josh\Desktop\TimeHacker\DirectXTK\Bin\Desktop_2013\Win32\Release\DirectXTK.lib

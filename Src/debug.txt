@@ -1,0 +1,189 @@
+**** Starting debugger
+Renderer.cpp(246): FILE: Images\black.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower1.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower1.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower2.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower2.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower3.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower3.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower4.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower4.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower5.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower5.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower6.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower6.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower7.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower7.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower8.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower8.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower9.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower9.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower10.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower10.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower11.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower11.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower12.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower12.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower13.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower13.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower14.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower14.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower15.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower15.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower16.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower16.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower17.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower17.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower18.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower18.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerUpper0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerUpper0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Enemy1Upper0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Enemy1Upper0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Enemy1Dead0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Enemy1Dead0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower1.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower1.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower2.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower2.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower3.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower3.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower4.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower4.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower5.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower5.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower6.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower6.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower7.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower7.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower8.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower8.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower9.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower9.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower10.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower10.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower11.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower11.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower12.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower12.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower13.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower13.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower14.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower14.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower15.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower15.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower16.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower16.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower17.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower17.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\PlayerLower18.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\PlayerLower18.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\bullet0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\bullet0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\testwall0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\testwall0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Pistol_side0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Pistol_side0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\shotty_side0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\shotty_side0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\shotty_top0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\shotty_top0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Pistol_top0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Pistol_top0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\flooring0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\flooring0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\hud0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\hud0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Lmg_side0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Lmg_side0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Lmg_top0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Lmg_top0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Slugger_side0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Slugger_side0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Slugger_top0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Slugger_top0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Slugger_top1.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Slugger_top1.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Knife_side0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Knife_side0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Knife_top0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Knife_top0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Knife_top1.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Knife_top1.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\TitleCard0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\TitleCard0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\face0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\face0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\chicagoSlugger_side0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\chicagoSlugger_side0.png
+SpriteMan.cpp(38): 
+SpriteMan.cpp(39): Images\Chicagoslugger_top0.pngSpriteMan.cpp(40): 
+Renderer.cpp(246): FILE: Images\Chicagoslugger_top0.png
+Renderer.cpp(246): FILE: Images\Text.png
+Renderer.cpp(246): FILE: Images\Text_old.png
+**** Exiting debugger
+

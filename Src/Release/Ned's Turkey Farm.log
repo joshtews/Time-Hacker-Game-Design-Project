@@ -1,0 +1,16 @@
+﻿  GameRenderer.cpp
+Code\GameRenderer.cpp(319): warning C4244: 'initializing' : conversion from 'double' to 'const float', possible loss of data
+Code\GameRenderer.cpp(329): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+Code\GameRenderer.cpp(332): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+Code\GameRenderer.cpp(342): warning C4305: 'argument' : truncation from 'double' to 'float'
+Code\GameRenderer.cpp(343): warning C4305: 'argument' : truncation from 'double' to 'float'
+Code\GameRenderer.cpp(344): warning C4305: '=' : truncation from 'double' to 'float'
+Code\GameRenderer.cpp(651): warning C4018: '<' : signed/unsigned mismatch
+Code\GameRenderer.cpp(656): warning C4018: '<' : signed/unsigned mismatch
+Code\GameRenderer.cpp(663): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Code\GameRenderer.cpp(668): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Code\GameRenderer.cpp(727): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Code\GameRenderer.cpp(743): warning C4101: 'buffer1' : unreferenced local variable
+  Generating code
+  Finished generating code
+  Ned's Turkey Farm.vcxproj -> C:\Users\Josh\Desktop\TimeHacker\TimeHacker\Release\Time Hacker.exe

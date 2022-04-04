@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Test object spawning Time Hacker -->
+
+<level>
+  <objects>
+    <!--        Flooring         -->
+    <object name="flooring"
+      type ="9"
+      x ="0" y ="0" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring1"
+      type ="9"
+      x ="0" y ="1000" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring2"
+      type ="9"
+      x ="-1000" y ="0" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring3"
+      type ="9"
+      x ="1000" y ="0" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring4"
+      type ="9"
+      x ="0" y ="-1000" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring5"
+      type ="9"
+      x ="-1000" y ="1000" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring6"
+      type ="9"
+      x ="1000" y ="1000" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring7"
+      type ="9"
+      x ="-1000" y ="-1000" z ="0.1"
+      orientation = "0"/>
+
+    <object name="flooring8"
+      type ="9"
+      x ="1000" y ="-1000" z ="0.1"
+      orientation = "0"/>
+
+    <!--        Walls         -->
+
+    <!-- Top -->
+    
+    <object name="testwall"
+      type ="6"
+      x ="0" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="125" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall2"
+      type ="6"
+      x ="250" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall3"
+      type ="6"
+      x ="375" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="500" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="625" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="750" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="875" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1000" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1125" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1250" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1375" y ="1650" z ="0"
+      orientation ="1.570796"/>
+    
+    <object name="testwall1"
+      type ="6"
+      x ="1500" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1625" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1750" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1875" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-125" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall2"
+      type ="6"
+      x ="-250" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall3"
+      type ="6"
+      x ="-375" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-500" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-625" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-750" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-875" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1000" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1125" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1250" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1375" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1500" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1625" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1750" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1875" y ="1650" z ="0"
+      orientation ="1.570796"/>
+
+    <!-- Right -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="1560" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="1450" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="1340" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="1230" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="1120" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="1010" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="900" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="790" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="680" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="570" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="460" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="350" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="240" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="130" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="20" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-90" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-200" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-310" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-420" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-530" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-640" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-750" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-860" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-970" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-1080" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-1190" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-1300" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-1410" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-1520" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1907" y ="-1600" z ="0"
+      orientation ="0"/>
+    
+    <!-- Left -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="1560" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="1450" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="1340" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="1230" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="1120" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="1010" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="900" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="790" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="680" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="570" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="460" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="350" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="240" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="130" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="20" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-90" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-200" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-310" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-420" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-530" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-640" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-750" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-860" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-970" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-1080" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-1190" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-1300" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-1410" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-1520" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1907" y ="-1600" z ="0"
+      orientation ="0"/>
+    
+    <!-- Bottom -->
+
+    <object name="testwall"
+      type ="6"
+      x ="0" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="125" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall2"
+      type ="6"
+      x ="250" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall3"
+      type ="6"
+      x ="375" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="500" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="625" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="750" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="875" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1000" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1125" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1250" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1375" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1500" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1625" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1750" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1875" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-125" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall2"
+      type ="6"
+      x ="-250" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall3"
+      type ="6"
+      x ="-375" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-500" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-625" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-750" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-875" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1000" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1125" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1250" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1375" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1500" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1625" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1750" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1875" y ="-1650" z ="0"
+      orientation ="1.570796"/>
+    
+    <!-- Obstacles-->
+    
+    <!-- Top Right Diag -->
+    <object name="testwall1"
+      type ="6"
+      x ="500" y ="300" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="700" y ="500" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="900" y ="700" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1100" y ="900" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="300" y ="500" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="500" y ="700" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="700" y ="900" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="900" y ="1100" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1600" y ="1600" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1820" y ="1400" z ="0"
+      orientation ="1.570796"/>
+    
+    <!--Top Left Diag -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="-500" y ="300" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-700" y ="500" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-900" y ="700" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1100" y ="900" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-300" y ="500" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-500" y ="700" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-700" y ="900" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-900" y ="1100" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1600" y ="1600" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1820" y ="1400" z ="0"
+      orientation ="1.570796"/>
+    
+    <!-- Bottom Right Diag -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="500" y ="-300" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="700" y ="-500" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="900" y ="-700" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1100" y ="-900" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="300" y ="-500" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="500" y ="-700" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="700" y ="-900" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="900" y ="-1100" z ="0"
+      orientation =".78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1600" y ="-1600" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1820" y ="-1400" z ="0"
+      orientation ="1.570796"/>
+    
+    <!-- Bottom Left Diag -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="-500" y ="-300" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-700" y ="-500" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-900" y ="-700" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1100" y ="-900" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-300" y ="-500" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-500" y ="-700" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-700" y ="-900" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-900" y ="-1100" z ="0"
+      orientation ="-.78539"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1600" y ="-1600" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1820" y ="-1400" z ="0"
+      orientation ="1.570796"/>
+    <!-- left -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1180" y ="100" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1180" y ="-100" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1400" y ="100" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-1400" y ="-100" z ="0"
+      orientation ="1.570796"/>
+
+    <!-- Right -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="1180" y ="100" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1180" y ="-100" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1400" y ="100" z ="0"
+      orientation ="1.570796"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="1400" y ="-100" z ="0"
+      orientation ="1.570796"/>
+    
+    <!-- top -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="100" y ="1180" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-100" y ="1180" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="100" y ="1400" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-100" y ="1400" z ="0"
+      orientation ="0"/>
+    
+    <!-- Bottom -->
+
+    <object name="testwall1"
+      type ="6"
+      x ="100" y ="-1180" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-100" y ="-1180" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="100" y ="-1400" z ="0"
+      orientation ="0"/>
+
+    <object name="testwall1"
+      type ="6"
+      x ="-100" y ="-1400" z ="0"
+      orientation ="0"/>
+
+
+    
+  </objects>
+</level>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings for Time Hacker -->
+
+<settings>
+
+  <!-- general settings -->
+
+  <game name="Time Hacker" />
+  
+  <!-- renderer settings -->
+
+  <renderer width="1024" height="768" shadermodel="5_0"/>
+
+  <!-- image file names -->
+
+  <images>
+    <image src="Images\black.png" />
+    <image src="Images\flooring0.png" />
+  </images>
+  
+  <!-- sprites -->
+  
+  <sprites>
+    <sprite name="bullet" file="Images\bullet" ext="png" frames="1" />
+    <sprite name="player" file="Images\PlayerLower" ext="png" frames="19" />
+    <sprite name="playerupper" file="Images\PlayerUpper" ext="png" frames="1" />
+    <sprite name="enemytest" file="Images\PlayerLower" ext="png" frames="19" />
+    <sprite name="enemytestupper" file="Images\Enemy1Upper" ext="png" frames="1" />
+    <sprite name="enemytestdead" file="Images\Enemy1Dead" ext="png" frames="1" />
+    <sprite name="testwall" file="Images\testwall" ext="png" frames="1" />
+    <sprite name="pistolequipped" file="Images\Pistol_top" ext="png" frames="1" />
+    <sprite name="pistol" file="Images\Pistol_side" ext="png" frames="1" />
+    <sprite name="flooring" file="Images\flooring" ext="png" frames="1" />
+    <sprite name="shotgunequipped" file="Images\shotty_top" ext="png" frames="1" />
+    <sprite name="shotgun" file="Images\shotty_side" ext="png" frames="1" />
+    <sprite name="lmgequipped" file="Images\Lmg_top" ext="png" frames="1" />
+    <sprite name="lmg" file="Images\Lmg_side" ext="png" frames="1" />
+    <sprite name="hud" file="Images\hud" ext="png" frames="1"/>
+    <sprite name="slugger" file="Images\Slugger_side" ext="png" frames="1" />
+    <sprite name="sluggerequipped" file="Images\Slugger_top" ext="png" frames="2" />
+    <sprite name="knife" file="Images\Knife_side" ext="png" frames="1" />
+    <sprite name="knifeequipped" file="Images\Knife_top" ext="png" frames="2" />
+    <sprite name="titlecard" file="Images\TitleCard" ext="png" frames="1" />
+    <sprite name="livessprite" file="Images\face" ext="png" frames="1" />
+    <sprite name="chicagoslugger" file="Images\chicagoSlugger_side" ext="png" frames="1" />
+    <sprite name="chicagosluggerequipped" file="Images\Chicagoslugger_top" ext="png" frames="1" />
+  </sprites>
+
+  <sounds>
+      <sound file="Sounds\Pistol_Shot.wav" instances="10"/>
+      <sound file="Sounds\TimeHacker_Theme.wav"/>
+      <sound file="Sounds\Bullet_Impact.wav" instances="10"/>
+      <sound file="Sounds\Shotgun.wav" instances="10"/>
+      <sound file="Sounds\Assault Rifle.wav" instances="20"/>
+      <sound file="Sounds\Bat_Hit.wav" instances="10"/>
+      <sound file="Sounds\Bat_Miss0.wav" instances="10"/>
+      <sound file="Sounds\Bat_Miss1.wav" instances="10"/>
+      <sound file="Sounds\Knife_Hit.wav" instances="10"/>
+      <sound file="Sounds\Knife_Miss0.wav" instances="10"/>
+      <sound file="Sounds\Knife_Miss1.wav" instances="10"/>
+      <sound file="Sounds\Death0.wav" instances="10"/>
+      <sound file="Sounds\Death1.wav" instances="10"/>
+      <sound file="Sounds\Death2.wav" instances="10"/>
+      <sound file="Sounds\Hit0.wav" instances="10"/>
+      <sound file="Sounds\Hit1.wav" instances="10"/>
+      <sound file="Sounds\Hit2.wav" instances="10"/>
+      <sound file="Sounds\Equip.wav" instances="10"/>
+      <sound file="Sounds\Unequip.wav" instances="10"/>
+      <sound file="Sounds\Slowdown.wav" instances="10"/>
+      <sound file="Sounds\Speedup.wav" instances="10"/>
+  </sounds>  
+  
+  <!-- objects-->
+  
+  <objects>
+    <object name="player"
+      minxspeed="-50" maxxspeed="50"
+      minyspeed="-50" maxyspeed="50"
+      frameinterval="400"
+      cycle="1"
+      animation="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"
+    />
+
+    <object name="enemytest"
+      frameinterval="400"
+      cycle="1"
+      animation="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"
+    />
+    
+    <object name="slugger"
+      frameinterval="1000"
+      cycle="0"
+    />
+        
+    <object name="testwall"/>
+
+    <object name="pistol"/>
+
+    <object name="shotgun"/>
+    
+    <object name="flooring"/>     
+
+    <object name="bullet" lifetime="600"/>
+  </objects>  
+    
+  <!-- debugger settings -->
+
+  <debug linenumber="1" header="1">
+    <file select="1" name="debug.txt"/>
+    <debugger select="1"/>
+    <ip select="1" address="127.0.0.1" port="1617"/>
+  </debug>
+
+</settings>
